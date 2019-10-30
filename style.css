@@ -1,0 +1,79 @@
+* {
+
+}
+
+body {
+  background-color:#e5bd9c;
+  font-family: 'Open Sans', serif;
+  color:black;
+  font-size:;
+}
+
+h1, h2, h3 {
+  font-family: 'Lora', serif;
+  font-weight: bold;
+  color: #71697A;
+  line-height: 25px;
+}
+
+h1 {
+}
+
+h2, h3 {
+  line-height: 20px;
+}
+
+a {
+  color:#71697A;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+ color: #968ca3;
+}
+
+#button {
+  border: 1px solid;
+  padding: 5px 8px;
+  font-size: 15px;
+  border-radius: 4px;
+}
+
+.social-link{
+  text-align: center;
+  font-size: 30px;
+}
+
+#experience {
+  text-align: left;
+  border: 1px solid #ead3c0;
+  margin: 20px auto;
+  box-shadow: 0 10px 30px rgba(0,0,0, 0.1);
+  padding-bottom: 30px;
+  background-color: #D9D2B6;
+}
+
+.container {
+  text-align: center;
+  width: 60%;
+  border: 1px solid #ead3c0;
+  margin: 20px auto;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0, 0.1);
+  padding-bottom: 30px;
+  background-color: #ead3c0;
+}
+
+.container ul {
+  text-align: left;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.card {
+}
+
+.picture {
+  border-radius: 50%;
+}
